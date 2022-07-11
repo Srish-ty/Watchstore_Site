@@ -1,0 +1,42 @@
+#secondLast, #thirdFi, #thirdTwo{
+    background-color:black; 
+    opacity:0.7; 
+    text-align:center;
+    border-top:1.5px solid #0f7493;
+    border-bottom:1.5px solid #0f7493;
+}
+
+#secondLast{ top:90vw; left:20vw; width:30vw; }
+
+#thirdFi{ top:95vw; left:15vw;width:22vw; }
+
+#thirdTwo{ top:100vw; left:21vw; width:25vw; }
+
+#secondFirst{
+    top:42vw; left:30vw; 
+    width:30vw; 
+    opacity: 0.7;}
+
+#firstPara{ 
+    right:18vw; top:60vw; 
+    background-color:black; 
+    opacity:0.8; 
+}
+
+#secondPara{
+    top:131vw; right:5vw; 
+    background-color:aliceblue; 
+    opacity:0.7; 
+    padding:1.8vw; 
+}
+
+#fourthFi{
+    left:42vw; top:150vw; 
+    text-align:center;
+}
+
+#fifOne{
+    top:209vw; right:10vw;
+    text-align:right; 
+    width:40vw;
+}
