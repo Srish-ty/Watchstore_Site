@@ -20,7 +20,7 @@ nav {
     font-size: 1.1vw;
     padding:1.5% 2.5% 2% 1%;
     border-bottom: 4px solid#0f7493; 
-    background-image: url("plain.jpg");
+    background-image: url("imgs/plain.jpg");
 }
 
 .tabs{
@@ -98,7 +98,7 @@ section{
 }
 
 #four{
-    background-image:url("mast.jpg");
+    background-image:url("imgs/mast.jpg");
     background-attachment: fixed;
     background-position: center;
     height:50vw;
@@ -126,7 +126,7 @@ figcaption{
 }
 
 footer{
-    background-image: url("plain.jpg");
+    background-image: url("imgs/plain.jpg");
     font-weight: bold;
     font-size: 1.1vw;
     padding:2% 2.5% 2% 2%;
