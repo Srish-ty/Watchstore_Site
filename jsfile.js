@@ -3,7 +3,7 @@ function textout(){
     document.getElementById("cart").innerHTML="Cart";
 }
 function normal(){
-    document.getElementById("cart").innerHTML="<img src='carti1.png'>";
+    document.getElementById("cart").innerHTML="<img src='imgs/carti1.png'>";
 }
 
 const headis=document.getElementsByClassName("headings");
