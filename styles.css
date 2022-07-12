@@ -7,7 +7,7 @@ body{
 .logo{ 
     background-color: #0f7493; color:black; 
     text-decoration: none; font-weight:bold;
-    padding:1.5%; margin:0%; 
+    padding:1.5%; margin:1.5vw 1.5vw 0vw 0vw; 
     font-family: "Times New Roman", Times, serif;
     font-size:2vw;
     border-radius:5px;}
@@ -18,15 +18,15 @@ body{
 nav { 
     font-weight: bold;
     font-size: 1.1vw;
-    padding:1.5% 2.5% 2% 1%;
-    border-bottom: 4px solid#0f7493; 
+    padding:1.5vw 2.5vw 2vw 1vw;
+    border-bottom: 0.3vw solid#0f7493; 
     background-image: url("imgs/plain.jpg");
 }
 
 .tabs{
     background-color:#d88091; color:#00072c;
-    padding:1.2% 1.5vw 1.2% 1.5vw;
-    margin:1vw; 
+    padding:1vw 1.5vw 1vw 1.5vw;
+    margin:0.5vw 1.2vw 1vw 1.2vw; 
     border: none; 
     border-radius: 20px;
 }
