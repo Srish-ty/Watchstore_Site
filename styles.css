@@ -156,7 +156,8 @@ input{
     border-bottom: 2px solid #a05766;
 }
 input[type=text]:focus, input[type=email]:focus{
-    outline:none;
+    outline-color:#a05766;
+    outline-width:1px;
 }
 
 
