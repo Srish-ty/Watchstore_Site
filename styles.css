@@ -145,7 +145,7 @@ footer{
 #form1:hover{
     opacity:1;
     background-color: #f5e8e8;
-    box-shadow: 1vw 1.2vw 7px #1a1717;
+    box-shadow: 0vw 0vw 2.5vw #1a1717;
 }
 
 input{
