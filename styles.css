@@ -173,7 +173,7 @@ button{
 #btn:hover{
     opacity:1;
     background-color: #0f7493;
-    border-color: #00072c;
+    border:none;
 }
 
 
