@@ -1,8 +1,10 @@
 <html>
 <body>
 
-Welcome <?php echo $_POST["name"]; ?><br>
-Your email address is: <?php echo $_POST["email"]; ?>
+Welcome <?php echo $_POST["nm"]; ?> <br>
+Your query will be resolved soon.
+We'll reach out to you on your mail id: <?php echo $_POST["mail"]; ?> <br/>
+
 
 </body>
 </html>
